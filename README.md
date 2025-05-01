@@ -8,6 +8,7 @@ put it into dump.json
 `pip install numpy matplotlib`
 
 outputs to tile_id_grid.json
+
 run mapsolver.py
 
 copy output from json to <https://tjl.co/queens-gambit-arg/self-service-matches.php>
